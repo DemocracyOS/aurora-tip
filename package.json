@@ -1,6 +1,6 @@
 {
-  "name": "aurora-tip",
-  "repo": "slifszyc/aurora-tip",
+  "name": "democracyos-aurora-tip",
+  "repo": "DemocracyOS/aurora-tip",
   "description": "Aurora theme for tool tips",
   "version": "1.0.0",
   "keywords": ["aurora", "theme", "tip", "tooltip", "tooltips"],
